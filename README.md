@@ -1,5 +1,7 @@
 # 1in UI 组件库
 
+[![GitHub Stars](https://img.shields.io/github/stars/huey1in/1in-ui?style=flat-square&logo=github)](https://github.com/huey1in/1in-ui)[![GitHub Forks](https://img.shields.io/github/forks/huey1in/1in-ui?style=flat-square&logo=github)](https://github.com/huey1in/1in-ui)[![npm Version](https://img.shields.io/npm/v/1in-ui?style=flat-square&logo=npm)](https://www.npmjs.com/package/1in-ui)[![Repo Views](https://komarev.com/ghpvc/?username=huey1in&repo=1in-ui&style=flat-square&color=orange&label=Views)](https://github.com/huey1in/1in-ui)[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
 ### 你可以预览风格在下面网站
 
 - https://1incode.yinxh.fun
